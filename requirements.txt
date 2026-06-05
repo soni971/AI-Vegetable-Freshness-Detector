@@ -1,5 +1,0 @@
-streamlit
-numpy
-tensorflow
-pillow
-h5py
